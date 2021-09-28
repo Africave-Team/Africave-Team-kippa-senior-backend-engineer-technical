@@ -43,8 +43,8 @@ To sumbit this assessment please click this link : https://forms.gle/r3qinnGXhgf
 
 TIP: You're expected to do this project in  your own Github Repository (..but I bet you already knew that master🥷🏾)
 
+You have a period of 5 days to submit your concluded project or revert on this assessment
   
+Please do not hesitate to reach out to jephtah@kippa.africa if you have any questions or need any help.
   
-  Please do not hesitate to reach out to jephtah@kippa.africa if you have any questions or doubts to clear.
-  
-  Goodluck Soldier🚀
+Goodluck Soldier🚀
