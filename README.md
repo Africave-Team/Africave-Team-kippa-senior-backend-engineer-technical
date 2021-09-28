@@ -12,10 +12,10 @@ This technical test allows you to choose between two projects. Read more about i
 Background: 
 Kippa is a bookkeeping software system, so in this project you will be building out a very minimal system following the microservice architecture.
 
-- Service(s) to handle the business logic ( It is up to you to decide what the business logic is & the extent of this logic and yes it is totally fine to split these services if you choose, TIP: look at the current Kippa App to get ideas)
+- Service(s) to handle the business logic ( It is up to you to decide what the business logic is & the extent of this logic and yes it is totally fine to split these services if you choose, TIP: look at the current Kippa App to get ideas. https://kippa.africa/download?)
 - An authentication service ( of course there should be authentication , don't you think? 🙂)
-- A notification service ( oh well, you see, our users gotta know what's up, when it up right? 🤜🤛🏾)
-- ..... and anyother service of choice! ( .. I mean, we trust you Ninja!🥷🏾)
+- A notification service ( oh well, you see, our users have to know what's up, when it's up right? 🤜🤛🏾)
+- ..... and any other service of choice! ( .. I mean, we trust you Ninja!🥷🏾)
 
 It's really up to you to choose your technologies of choice when building this, but it will super uber better if you stayed with the technologies listed in the job description
 
@@ -30,7 +30,7 @@ A deployed project bangs too🚀🚀
 ## Project 2
 
 Okay maybe we understimated your ninja skills🥷🏾, so the second project is totally up to you! Sweet right? 
-Maybe yoy have something better to show us (... we really do hope so 🙂), we want you to tell us what you to build instead. 
+Maybe you have something better to show us (... we really do hope so 🙂), we want you to tell us what you to build instead. 
 
 Please send an email with Subject Name: ### Kippa Senior Backend Engineer Technical Challenge (Project Choice)
 
