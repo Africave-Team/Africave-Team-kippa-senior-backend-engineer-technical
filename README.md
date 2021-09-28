@@ -19,7 +19,7 @@ Kippa is a bookkeeping software system, so in this project you will be building 
 
 It's really up to you to choose your technologies of choice when building this, but it will super uber better if you stayed with the technologies listed in the job description
 
-We care a lot about documentation, well tested code, a very thought out design pattern, an extendable code, and of course a code that works! 
+We care a lot about documentation, well tested code, a well thought out design pattern, an extendable code, and of course a code that works! 
 
 This is a microservice , so we would really like to see how you manage things like data sharing, latency, communication across services, log management....  I mean you know the chops! 
 
