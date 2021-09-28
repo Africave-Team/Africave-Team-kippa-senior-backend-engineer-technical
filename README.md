@@ -9,6 +9,22 @@ This technical test allows you to choose between two projects. Read more about i
 
 ## Project 1
 
+Background: 
+Kippa is a bookkeeping software system, so in this project you will be building out a very minimal system following the microservice architecture.
+
+- Service(s) to handle the business logic ( It is up to you to decide what the business logic is & the extent of this logic and yes it is totally fine to split these services if you choose, TIP: look at the current Kippa App to get ideas)
+- An authentication service ( of course there should be authentication , don't you think? 🙂)
+- A notification service ( oh well, you see, our users gotta know what's up, when it up right? 🤜🤛🏾)
+- ..... and anyother service of choice! ( .. I mean, we trust you Ninja!🥷🏾)
+
+It's really up to you to choose your technologies of choice when building this, but it will super uber better if you stayed with the technologies listed in the job description
+
+We care a lot about documentation, well tested code, a very thought out design pattern, an extendable code, and of course a code that works! 
+
+This is a microservice , so we would really like to see how you manage things like data sharing, latency, communication across services, log management....  I mean you know the chops! 
+
+Bonus tip: 
+A deployed project bangs too🚀🚀
 
   
 ## Project 2
@@ -16,7 +32,7 @@ This technical test allows you to choose between two projects. Read more about i
 Okay maybe we understimated your ninja skills🥷🏾, so the second project is totally up to you! Sweet right? 
 Maybe yoy have something better to show us (... we really do hope so 🙂), we want you to tell us what you to build instead. 
 
-Please send an email with Subject Name: ### Kippa Flutter Engineer Technical Challenge (Project Choice)
+Please send an email with Subject Name: ### Kippa Senior Backend Engineer Technical Challenge (Project Choice)
 
 Then clearly communicate the project you'd like to build or what you intend to do. Sweet right?😀
 
