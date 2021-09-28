@@ -12,7 +12,7 @@ This technical test allows you to choose between two projects. Read more about i
 Background: 
 Kippa is a bookkeeping software system, so in this project you will be building out a very minimal system following the microservice architecture.
 
-- Service(s) to handle the business logic ( It is up to you to decide what the business logic is & the extent of this logic and yes it is totally fine to split these services if you choose, TIP: look at the current Kippa App to get ideas. https://kippa.africa/download?)
+- Service(s) to handle the business logic ( It is up to you to decide what the business logic is & the extent of this logic and yes it is totally fine to split these services if you choose, TIP: look at the current Kippa App to get ideas. https://kippa.africa/download)
 - An authentication service ( of course there should be authentication , don't you think? 🙂)
 - A notification service ( oh well, you see, our users have to know what's up, when it's up right? 🤜🤛🏾)
 - ..... and any other service of choice! ( .. I mean, we trust you Ninja!🥷🏾)
