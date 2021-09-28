@@ -1,5 +1,5 @@
 # kippa-senior-backend-engineer-technical
-This repository houses the technical interview test for a senior flutter engineer @ Kippa
+This repository houses the technical interview test for a senior backend engineer @ Kippa
 
 
 # Overview
@@ -9,13 +9,7 @@ This technical test allows you to choose between two projects. Read more about i
 
 ## Project 1
 
-- Using the https://newsapi.org/ , get News that has the Keyword "Business", "Africa", Startup". It is totally up to you how you want to display this, 
-  Let's see the genius! 😃
 
-- Implement a Dart Backend Srever that will enable the app to record sales and customer contact for a business using MongoDB Cloud Atlas(https://cloud.mongodb.com)
-  The free/shared plan is going to be sufficient for this sample project.(..we might be wrong 😂)
-  You can take a look at the Kippa App (https://kippa.africa) for inspiration. Please keep this as simple as possible. 
-  The scope of what you want to manage for the business is totally up to you, as our focus is mostly on code quality, design patterns, test and every sweetness in between😀
   
 ## Project 2
 
